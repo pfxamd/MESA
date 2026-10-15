@@ -1,0 +1,1013 @@
+[
+  {
+    "slug": "charred-tomato-toast",
+    "title": "Charred Tomato Toast",
+    "category": "Small Plates",
+    "number": 1,
+    "deck": "Hot tomatoes, crisp bread, olive oil and leaves that taste like summer.",
+    "prep": 10,
+    "cook": 10,
+    "serves": 2,
+    "rest": 0,
+    "ingredients": [
+      {
+        "id": "fresh-tomatoes",
+        "qty": 350,
+        "unit": "g",
+        "name": "ripe cherry tomatoes",
+        "optional": false
+      },
+      {
+        "id": "sourdough-bread",
+        "qty": 2,
+        "unit": "slices",
+        "name": "thick sourdough bread",
+        "optional": false
+      },
+      {
+        "id": "olive-oil",
+        "qty": 30,
+        "unit": "ml",
+        "name": "extra-virgin olive oil",
+        "optional": false
+      },
+      {
+        "id": "garlic",
+        "qty": 1,
+        "unit": "clove",
+        "name": "garlic, halved",
+        "optional": false
+      },
+      {
+        "id": "fresh-basil",
+        "qty": 8,
+        "unit": "g",
+        "name": "fresh basil",
+        "optional": false
+      },
+      {
+        "id": "fine-salt",
+        "qty": 2,
+        "unit": "g",
+        "name": "fine salt",
+        "optional": false
+      },
+      {
+        "id": "black-pepper",
+        "qty": null,
+        "unit": "",
+        "name": "black pepper, to taste",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Dry the washed tomatoes. Heat a heavy frying pan over medium-high heat; toss tomatoes with half the olive oil and a pinch of salt.",
+      "Cook tomatoes in a single layer for 5–7 minutes, gently shaking the pan, until skins blister and split in places. Lower the heat if the oil begins to smoke.",
+      "Toast the bread until sturdy and golden on both sides. Gently rub each warm slice with the cut garlic.",
+      "Top the toast with the hot tomatoes and pan juices. Drizzle with remaining olive oil and finish with torn basil, salt and pepper. Serve at once."
+    ],
+    "note": "Contains wheat/gluten in standard sourdough. Take care with hot oil.",
+    "equipment": "Heavy frying pan, toaster or grill",
+    "hero": "/assets/images/07-charred-tomato-toast.webp",
+    "process": "/assets/images/19-char-tomatoes.webp"
+  },
+  {
+    "slug": "lemon-herb-butter-beans",
+    "title": "Lemon & Herb Butter Beans",
+    "category": "Small Plates",
+    "number": 2,
+    "deck": "Soft white beans lifted by lemon zest, good oil and handfuls of herbs.",
+    "prep": 10,
+    "cook": 5,
+    "serves": 2,
+    "rest": 0,
+    "ingredients": [
+      {
+        "id": "canned-white-beans",
+        "qty": 480,
+        "unit": "g",
+        "name": "cooked butter beans, drained",
+        "optional": false
+      },
+      {
+        "id": "lemon",
+        "qty": 1,
+        "unit": "",
+        "name": "medium lemon, juice and zest",
+        "optional": false
+      },
+      {
+        "id": "olive-oil",
+        "qty": 30,
+        "unit": "ml",
+        "name": "extra-virgin olive oil",
+        "optional": false
+      },
+      {
+        "id": "flat-leaf-parsley",
+        "qty": 20,
+        "unit": "g",
+        "name": "flat-leaf parsley",
+        "optional": false
+      },
+      {
+        "id": "garlic",
+        "qty": 1,
+        "unit": "clove",
+        "name": "garlic, finely grated",
+        "optional": false
+      },
+      {
+        "id": "fine-salt",
+        "qty": 2,
+        "unit": "g",
+        "name": "fine salt",
+        "optional": false
+      },
+      {
+        "id": "black-pepper",
+        "qty": null,
+        "unit": "",
+        "name": "black pepper, to taste",
+        "optional": false
+      },
+      {
+        "id": "water",
+        "qty": 30,
+        "unit": "ml",
+        "name": "warm water",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Rinse the drained beans and warm them gently with the water in a saucepan for 3–5 minutes. Avoid vigorous boiling.",
+      "Whisk the lemon juice, finely grated zest, olive oil, garlic and a pinch of salt.",
+      "Drain any excess bean water and gently fold the warm beans through the lemon dressing.",
+      "Add chopped parsley and black pepper. Taste, adjust the salt and loosen with a little warm water if needed. Serve warm in a shallow bowl."
+    ],
+    "note": "Check canned-bean packaging for allergens and cross-contact.",
+    "equipment": "Saucepan, colander, mixing bowl",
+    "hero": "/assets/images/08-lemon-herb-butter-beans.webp",
+    "process": "/assets/images/20-dress-butter-beans.webp"
+  },
+  {
+    "slug": "crispy-potato-salad",
+    "title": "Crispy Potato Salad",
+    "category": "Small Plates",
+    "number": 3,
+    "deck": "Rough golden edges meet cool mustard yogurt and bright green dill.",
+    "prep": 15,
+    "cook": 50,
+    "serves": 4,
+    "rest": 0,
+    "ingredients": [
+      {
+        "id": "baby-potatoes",
+        "qty": 800,
+        "unit": "g",
+        "name": "baby potatoes",
+        "optional": false
+      },
+      {
+        "id": "olive-oil",
+        "qty": 35,
+        "unit": "ml",
+        "name": "olive oil",
+        "optional": false
+      },
+      {
+        "id": "plain-yogurt",
+        "qty": 180,
+        "unit": "g",
+        "name": "thick plain yogurt",
+        "optional": false
+      },
+      {
+        "id": "dijon-mustard",
+        "qty": 15,
+        "unit": "g",
+        "name": "Dijon mustard",
+        "optional": false
+      },
+      {
+        "id": "lemon",
+        "qty": 15,
+        "unit": "ml",
+        "name": "fresh lemon juice",
+        "optional": false
+      },
+      {
+        "id": "fresh-dill",
+        "qty": 15,
+        "unit": "g",
+        "name": "fresh dill",
+        "optional": false
+      },
+      {
+        "id": "fine-salt",
+        "qty": 5,
+        "unit": "g",
+        "name": "fine salt",
+        "optional": false
+      },
+      {
+        "id": "black-pepper",
+        "qty": null,
+        "unit": "",
+        "name": "black pepper, to taste",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Heat the oven to 220°C conventional / 200°C fan. Simmer the potatoes in salted water for roughly 12–15 minutes until just tender. Drain and let steam-dry for 5 minutes.",
+      "On an oiled metal tray, gently press each potato flat with the bottom of a sturdy glass. Keep the pieces connected.",
+      "Drizzle with olive oil and season. Roast for 30–35 minutes, turning the tray once, until crisp and golden at the edges.",
+      "Stir together yogurt, mustard, lemon juice and finely chopped dill. Season to taste.",
+      "Spread the dressing on a serving plate and pile the hot crisp potatoes on top just before eating."
+    ],
+    "note": "Contains milk. Check mustard packaging for allergens. Oven trays become very hot.",
+    "equipment": "Saucepan, metal tray, oven, bowl",
+    "hero": "/assets/images/09-crispy-potato-salad.webp",
+    "process": "/assets/images/21-crush-potatoes.webp"
+  },
+  {
+    "slug": "carrot-orange-fennel-salad",
+    "title": "Carrot, Orange & Fennel Salad",
+    "category": "Small Plates",
+    "number": 4,
+    "deck": "A tangle of orange ribbons, crisp fennel and fresh citrus.",
+    "prep": 20,
+    "cook": 0,
+    "serves": 4,
+    "rest": 0,
+    "ingredients": [
+      {
+        "id": "carrots",
+        "qty": 300,
+        "unit": "g",
+        "name": "carrots",
+        "optional": false
+      },
+      {
+        "id": "fennel",
+        "qty": 250,
+        "unit": "g",
+        "name": "trimmed fennel bulb",
+        "optional": false
+      },
+      {
+        "id": "orange",
+        "qty": 2,
+        "unit": "",
+        "name": "oranges",
+        "optional": false
+      },
+      {
+        "id": "olive-oil",
+        "qty": 25,
+        "unit": "ml",
+        "name": "extra-virgin olive oil",
+        "optional": false
+      },
+      {
+        "id": "lemon",
+        "qty": 15,
+        "unit": "ml",
+        "name": "lemon juice",
+        "optional": false
+      },
+      {
+        "id": "flat-leaf-parsley",
+        "qty": 10,
+        "unit": "g",
+        "name": "parsley leaves",
+        "optional": false
+      },
+      {
+        "id": "fine-salt",
+        "qty": 3,
+        "unit": "g",
+        "name": "fine salt",
+        "optional": false
+      },
+      {
+        "id": "black-pepper",
+        "qty": null,
+        "unit": "",
+        "name": "black pepper, to taste",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Peel the carrots into long thin ribbons, and finely shave the trimmed fennel using a peeler or guarded mandoline.",
+      "Remove orange peel and white pith. Cut segments free over a bowl, keeping any released juice.",
+      "Whisk olive oil, lemon juice and about 15 ml of orange juice with salt and pepper.",
+      "Gently toss carrots, fennel and orange segments with dressing. Arrange loosely on a broad plate and finish with parsley."
+    ],
+    "note": "Use a guard with a mandoline or sharp peeler.",
+    "equipment": "Peeler or mandoline, knife, bowl",
+    "hero": "/assets/images/10-carrot-orange-fennel-salad.webp",
+    "process": "/assets/images/22-shave-vegetables.webp"
+  },
+  {
+    "slug": "roasted-pepper-tomato-pasta",
+    "title": "Roasted Pepper & Tomato Pasta",
+    "category": "The Main Table",
+    "number": 5,
+    "deck": "Sweet roasted peppers and tomatoes clinging to every ribbon.",
+    "prep": 15,
+    "cook": 35,
+    "serves": 4,
+    "rest": 0,
+    "ingredients": [
+      {
+        "id": "pasta",
+        "qty": 320,
+        "unit": "g",
+        "name": "dry ribbon pasta",
+        "optional": false
+      },
+      {
+        "id": "red-bell-peppers",
+        "qty": 350,
+        "unit": "g",
+        "name": "red bell peppers",
+        "optional": false
+      },
+      {
+        "id": "fresh-tomatoes",
+        "qty": 500,
+        "unit": "g",
+        "name": "ripe tomatoes",
+        "optional": false
+      },
+      {
+        "id": "garlic",
+        "qty": 3,
+        "unit": "cloves",
+        "name": "garlic",
+        "optional": false
+      },
+      {
+        "id": "olive-oil",
+        "qty": 40,
+        "unit": "ml",
+        "name": "olive oil",
+        "optional": false
+      },
+      {
+        "id": "fresh-basil",
+        "qty": 15,
+        "unit": "g",
+        "name": "fresh basil",
+        "optional": false
+      },
+      {
+        "id": "fine-salt",
+        "qty": 5,
+        "unit": "g",
+        "name": "fine salt",
+        "optional": false
+      },
+      {
+        "id": "black-pepper",
+        "qty": null,
+        "unit": "",
+        "name": "black pepper, to taste",
+        "optional": false
+      },
+      {
+        "id": "water",
+        "qty": 120,
+        "unit": "ml",
+        "name": "reserved pasta water, as needed",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Heat oven to 210°C conventional / 190°C fan. Cut and deseed peppers, halve the tomatoes and place with unpeeled garlic on a tray. Toss with 25 ml olive oil and a little salt.",
+      "Roast for 25–30 minutes until the edges blister and tomatoes soften. Cool briefly and squeeze garlic from its skins.",
+      "Blend the roasted vegetables to a thick sauce or crush roughly. Simmer in a large pan with the remaining oil for 3–5 minutes.",
+      "Cook ribbon pasta in well-salted boiling water according to the packet until al dente. Reserve a little water before draining.",
+      "Toss the pasta with sauce, adding reserved water a little at a time until glossy. Finish with torn basil and pepper."
+    ],
+    "note": "Contains wheat/gluten in standard pasta. Take care when blending hot ingredients.",
+    "equipment": "Oven, roasting tray, blender, pot, wide pan",
+    "hero": "/assets/images/11-roasted-pepper-tomato-pasta.webp",
+    "process": "/assets/images/23-make-roasted-sauce.webp"
+  },
+  {
+    "slug": "harissa-chickpea-skillet",
+    "title": "Harissa Chickpea Skillet",
+    "category": "The Main Table",
+    "number": 6,
+    "deck": "A warm skillet of chickpeas, greens and gentle fire.",
+    "prep": 10,
+    "cook": 20,
+    "serves": 4,
+    "rest": 0,
+    "ingredients": [
+      {
+        "id": "canned-chickpeas",
+        "qty": 480,
+        "unit": "g",
+        "name": "cooked chickpeas, drained",
+        "optional": false
+      },
+      {
+        "id": "canned-tomatoes",
+        "qty": 400,
+        "unit": "g",
+        "name": "chopped canned tomatoes",
+        "optional": false
+      },
+      {
+        "id": "harissa-paste",
+        "qty": 25,
+        "unit": "g",
+        "name": "harissa paste",
+        "optional": false
+      },
+      {
+        "id": "spinach",
+        "qty": 120,
+        "unit": "g",
+        "name": "baby spinach",
+        "optional": false
+      },
+      {
+        "id": "onion",
+        "qty": 140,
+        "unit": "g",
+        "name": "onion",
+        "optional": false
+      },
+      {
+        "id": "garlic",
+        "qty": 2,
+        "unit": "cloves",
+        "name": "garlic",
+        "optional": false
+      },
+      {
+        "id": "olive-oil",
+        "qty": 25,
+        "unit": "ml",
+        "name": "olive oil",
+        "optional": false
+      },
+      {
+        "id": "water",
+        "qty": 100,
+        "unit": "ml",
+        "name": "water",
+        "optional": false
+      },
+      {
+        "id": "fine-salt",
+        "qty": 3,
+        "unit": "g",
+        "name": "fine salt, adjust to taste",
+        "optional": false
+      },
+      {
+        "id": "black-pepper",
+        "qty": null,
+        "unit": "",
+        "name": "black pepper, to taste",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Heat oil in a deep skillet and soften the diced onion for 5 minutes.",
+      "Add minced garlic and harissa; stir for 30–60 seconds until fragrant without burning.",
+      "Add chopped tomatoes, drained chickpeas and water. Simmer gently for 10–12 minutes until the sauce thickens.",
+      "Fold in spinach in batches until wilted, about 2 minutes. Taste before adding more salt; harissa varies in salt and heat.",
+      "Serve from the skillet placed on a heat-safe trivet."
+    ],
+    "note": "Harissa heat and allergens vary by product. The skillet handle may be hot.",
+    "equipment": "Deep skillet, wooden spoon",
+    "hero": "/assets/images/12-harissa-chickpea-skillet.webp",
+    "process": "/assets/images/24-build-chickpea-skillet.webp"
+  },
+  {
+    "slug": "crispy-aubergine-herbed-yogurt",
+    "title": "Crispy Aubergine & Herbed Yogurt",
+    "category": "The Main Table",
+    "number": 7,
+    "deck": "Deeply browned aubergine, cool yogurt and a little crunch.",
+    "prep": 15,
+    "cook": 35,
+    "serves": 4,
+    "rest": 0,
+    "ingredients": [
+      {
+        "id": "aubergine",
+        "qty": 650,
+        "unit": "g",
+        "name": "aubergines",
+        "optional": false
+      },
+      {
+        "id": "plain-yogurt",
+        "qty": 250,
+        "unit": "g",
+        "name": "thick yogurt",
+        "optional": false
+      },
+      {
+        "id": "olive-oil",
+        "qty": 45,
+        "unit": "ml",
+        "name": "olive oil",
+        "optional": false
+      },
+      {
+        "id": "flat-leaf-parsley",
+        "qty": 15,
+        "unit": "g",
+        "name": "parsley",
+        "optional": false
+      },
+      {
+        "id": "lemon",
+        "qty": 15,
+        "unit": "ml",
+        "name": "lemon juice",
+        "optional": false
+      },
+      {
+        "id": "sesame-seeds",
+        "qty": 15,
+        "unit": "g",
+        "name": "toasted sesame",
+        "optional": false
+      },
+      {
+        "id": "garlic",
+        "qty": 1,
+        "unit": "clove",
+        "name": "grated garlic",
+        "optional": false
+      },
+      {
+        "id": "fine-salt",
+        "qty": 4,
+        "unit": "g",
+        "name": "fine salt",
+        "optional": false
+      },
+      {
+        "id": "black-pepper",
+        "qty": null,
+        "unit": "",
+        "name": "black pepper, to taste",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Heat oven to 200°C conventional / 180°C fan. Halve aubergines lengthwise, score the flesh shallowly and season.",
+      "Heat around 30 ml of olive oil in an ovenproof pan. Sear the aubergine halves cut-side down for 5–7 minutes until deeply browned.",
+      "Move the pan to the oven, or transfer the aubergines to a tray, and roast for 20–25 minutes until fully tender.",
+      "Mix thick yogurt with lemon, grated garlic, chopped parsley, remaining olive oil, salt and pepper.",
+      "Spread the herbed yogurt over a plate, top with roasted aubergine and scatter toasted sesame over it."
+    ],
+    "note": "Contains milk and sesame. Use an ovenproof pan; the handle stays hot.",
+    "equipment": "Ovenproof skillet or baking tray, mixing bowl",
+    "hero": "/assets/images/13-crispy-aubergine-yogurt.webp",
+    "process": "/assets/images/25-sear-aubergine.webp"
+  },
+  {
+    "slug": "golden-roast-chicken-lemon",
+    "title": "Golden Roast Chicken & Lemon",
+    "category": "The Main Table",
+    "number": 8,
+    "deck": "Crisp, golden and meant for the middle of the table.",
+    "prep": 15,
+    "cook": 90,
+    "serves": 4,
+    "rest": 15,
+    "ingredients": [
+      {
+        "id": "whole-chicken",
+        "qty": 1,
+        "unit": "",
+        "name": "whole chicken (1.5–1.8 kg)",
+        "optional": false
+      },
+      {
+        "id": "lemon",
+        "qty": 2,
+        "unit": "",
+        "name": "lemons",
+        "optional": false
+      },
+      {
+        "id": "garlic",
+        "qty": 1,
+        "unit": "head",
+        "name": "garlic",
+        "optional": false
+      },
+      {
+        "id": "fresh-thyme",
+        "qty": 15,
+        "unit": "g",
+        "name": "fresh thyme",
+        "optional": false
+      },
+      {
+        "id": "olive-oil",
+        "qty": 35,
+        "unit": "ml",
+        "name": "olive oil",
+        "optional": false
+      },
+      {
+        "id": "fine-salt",
+        "qty": 9,
+        "unit": "g",
+        "name": "fine salt",
+        "optional": false
+      },
+      {
+        "id": "black-pepper",
+        "qty": 2,
+        "unit": "g",
+        "name": "black pepper",
+        "optional": false
+      },
+      {
+        "id": "water",
+        "qty": 100,
+        "unit": "ml",
+        "name": "water, if pan is drying",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Heat the oven to 200°C conventional / 180°C fan. Keep the fully thawed chicken refrigerated until needed. Do not wash raw chicken.",
+      "Pat it dry with paper towel. Coat with oil, salt and pepper and place breast-up in a roasting tray. Arrange lemon quarters, halved garlic head and thyme around the bird without stuffing the cavity.",
+      "Roast roughly 75–100 minutes, shielding overly dark skin with foil. The time is only a guide; check actual internal temperatures with a food thermometer.",
+      "Confirm at least 74°C / 165°F in the thickest breast and the innermost thigh and wing without touching bone. Continue roasting and recheck any lower area.",
+      "Rest on a clean tray for about 15 minutes before carving. Keep cooked food separate from the raw preparation tools."
+    ],
+    "note": "Food safety: raw poultry cross-contamination risk. Cook until a thermometer reads at least 74°C / 165°F in the thickest breast and innermost thigh and wing; time and skin colour alone are not proof. Refrigerate leftovers promptly.",
+    "equipment": "Roasting tray, oven, food thermometer",
+    "hero": "/assets/images/14-golden-roast-chicken.webp",
+    "process": "/assets/images/26-season-roast-chicken.webp"
+  },
+  {
+    "slug": "tomato-saffron-rice",
+    "title": "Tomato & Saffron Rice",
+    "category": "The Main Table",
+    "number": 9,
+    "deck": "Golden grains under soft red tomatoes and green herbs.",
+    "prep": 10,
+    "cook": 30,
+    "serves": 4,
+    "rest": 5,
+    "ingredients": [
+      {
+        "id": "long-grain-rice",
+        "qty": 300,
+        "unit": "g",
+        "name": "long-grain rice",
+        "optional": false
+      },
+      {
+        "id": "saffron",
+        "qty": 0.15,
+        "unit": "g",
+        "name": "saffron threads",
+        "optional": false
+      },
+      {
+        "id": "vegetable-stock",
+        "qty": 550,
+        "unit": "ml",
+        "name": "vegetable stock",
+        "optional": false
+      },
+      {
+        "id": "fresh-tomatoes",
+        "qty": 350,
+        "unit": "g",
+        "name": "small ripe tomatoes",
+        "optional": false
+      },
+      {
+        "id": "onion",
+        "qty": 100,
+        "unit": "g",
+        "name": "onion",
+        "optional": false
+      },
+      {
+        "id": "garlic",
+        "qty": 1,
+        "unit": "clove",
+        "name": "garlic",
+        "optional": false
+      },
+      {
+        "id": "olive-oil",
+        "qty": 35,
+        "unit": "ml",
+        "name": "olive oil",
+        "optional": false
+      },
+      {
+        "id": "flat-leaf-parsley",
+        "qty": 12,
+        "unit": "g",
+        "name": "parsley",
+        "optional": false
+      },
+      {
+        "id": "fine-salt",
+        "qty": 2,
+        "unit": "g",
+        "name": "fine salt",
+        "optional": false
+      },
+      {
+        "id": "black-pepper",
+        "qty": null,
+        "unit": "",
+        "name": "black pepper, to taste",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Soak saffron in 60 ml of the measured hot stock for 5 minutes. Heat the oven to 200°C conventional / 180°C fan if oven-roasting the tomatoes.",
+      "Toss tomatoes with 15 ml of olive oil and roast around 20 minutes until softened, or blister in a skillet.",
+      "Soften chopped onion in 20 ml olive oil, add garlic, then stir in the rinsed and drained rice for 1 minute.",
+      "Add the measured stock, including the saffron infusion. Cover and cook over low heat about 12–15 minutes or as directed by rice packaging, until absorbed.",
+      "Rest covered off the heat 5 minutes, fluff with a fork and top with tomatoes and fresh parsley."
+    ],
+    "note": "Some vegetable stocks contain allergens. Cool leftover cooked rice promptly; do not leave at room temperature.",
+    "equipment": "Lidded saucepan, oven tray or skillet",
+    "hero": "/assets/images/15-tomato-saffron-rice.webp",
+    "process": "/assets/images/27-fold-saffron-rice.webp"
+  },
+  {
+    "slug": "orange-olive-oil-cake",
+    "title": "Orange Olive Oil Cake",
+    "category": "Something Sweet",
+    "number": 10,
+    "deck": "A soft golden crumb and all the brightness of orange.",
+    "prep": 15,
+    "cook": 45,
+    "serves": 8,
+    "rest": 30,
+    "ingredients": [
+      {
+        "id": "plain-flour",
+        "qty": 190,
+        "unit": "g",
+        "name": "plain flour",
+        "optional": false
+      },
+      {
+        "id": "caster-sugar",
+        "qty": 155,
+        "unit": "g",
+        "name": "caster sugar",
+        "optional": false
+      },
+      {
+        "id": "baking-powder",
+        "qty": 8,
+        "unit": "g",
+        "name": "baking powder",
+        "optional": false
+      },
+      {
+        "id": "fine-salt",
+        "qty": 2,
+        "unit": "g",
+        "name": "fine salt",
+        "optional": false
+      },
+      {
+        "id": "eggs",
+        "qty": 2,
+        "unit": "",
+        "name": "large eggs",
+        "optional": false
+      },
+      {
+        "id": "olive-oil",
+        "qty": 110,
+        "unit": "ml",
+        "name": "mild olive oil",
+        "optional": false
+      },
+      {
+        "id": "orange",
+        "qty": 1,
+        "unit": "",
+        "name": "large orange (zest and 80 ml juice)",
+        "optional": false
+      },
+      {
+        "id": "plain-yogurt",
+        "qty": 100,
+        "unit": "g",
+        "name": "plain yogurt",
+        "optional": false
+      },
+      {
+        "id": "vanilla-extract",
+        "qty": 5,
+        "unit": "ml",
+        "name": "vanilla extract",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Heat oven to 175°C conventional / 155°C fan. Grease and line one 20 cm round cake pan.",
+      "Whisk together flour, baking powder and salt in a medium bowl.",
+      "Whisk eggs and sugar in another bowl until slightly thickened, then gradually whisk in olive oil, yogurt, measured orange juice, fine zest and vanilla.",
+      "Fold the dry mixture gently into the wet ingredients just until no flour remains. Pour into the prepared pan.",
+      "Bake about 35–45 minutes until the centre springs back and a skewer shows no wet batter. Cool 10 minutes in the pan, then further on a rack before slicing."
+    ],
+    "note": "Contains wheat, eggs and milk. This formula has not been kitchen-tested; verify before public culinary publication.",
+    "equipment": "20 cm round cake pan, parchment, bowls, whisk",
+    "hero": "/assets/images/16-orange-olive-oil-cake.webp",
+    "process": "/assets/images/28-mix-orange-cake.webp"
+  },
+  {
+    "slug": "honey-roasted-pears",
+    "title": "Honey-Roasted Pears",
+    "category": "Something Sweet",
+    "number": 11,
+    "deck": "Amber edges, cool yogurt and a little honey.",
+    "prep": 10,
+    "cook": 35,
+    "serves": 4,
+    "rest": 0,
+    "ingredients": [
+      {
+        "id": "pears",
+        "qty": 2,
+        "unit": "",
+        "name": "large firm-ripe pears",
+        "optional": false
+      },
+      {
+        "id": "honey",
+        "qty": 45,
+        "unit": "g",
+        "name": "honey",
+        "optional": false
+      },
+      {
+        "id": "butter",
+        "qty": 20,
+        "unit": "g",
+        "name": "unsalted butter",
+        "optional": false
+      },
+      {
+        "id": "lemon",
+        "qty": 15,
+        "unit": "ml",
+        "name": "lemon juice",
+        "optional": false
+      },
+      {
+        "id": "plain-yogurt",
+        "qty": 180,
+        "unit": "g",
+        "name": "plain yogurt",
+        "optional": false
+      },
+      {
+        "id": "walnuts",
+        "qty": 35,
+        "unit": "g",
+        "name": "walnuts",
+        "optional": false
+      },
+      {
+        "id": "cinnamon",
+        "qty": 1,
+        "unit": "g",
+        "name": "ground cinnamon",
+        "optional": false
+      },
+      {
+        "id": "water",
+        "qty": 30,
+        "unit": "ml",
+        "name": "water",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Heat oven to 190°C conventional / 170°C fan. Halve the pears and remove their cores.",
+      "Mix melted butter, honey, lemon juice and cinnamon. Place pear halves cut-side up in a snug dish with the water.",
+      "Spoon honey glaze over pears and roast for 25–35 minutes, basting once or twice, until tender and browned at the edges.",
+      "Serve one warm pear half per person with thick cool yogurt, roasting syrup and roughly chopped toasted walnuts."
+    ],
+    "note": "Contains milk and walnuts. Hot sugar syrup can burn; honey is not suitable for infants under 12 months.",
+    "equipment": "Baking dish, spoon, bowl",
+    "hero": "/assets/images/17-honey-roasted-pears.webp",
+    "process": "/assets/images/29-glaze-roasted-pears.webp"
+  },
+  {
+    "slug": "chocolate-tahini-cookies",
+    "title": "Dark Chocolate Tahini Cookies",
+    "category": "Something Sweet",
+    "number": 12,
+    "deck": "Deep cocoa, roasted sesame and a tender middle.",
+    "prep": 15,
+    "cook": 12,
+    "serves": 12,
+    "rest": 30,
+    "ingredients": [
+      {
+        "id": "plain-flour",
+        "qty": 150,
+        "unit": "g",
+        "name": "plain flour",
+        "optional": false
+      },
+      {
+        "id": "cocoa-powder",
+        "qty": 30,
+        "unit": "g",
+        "name": "unsweetened cocoa powder",
+        "optional": false
+      },
+      {
+        "id": "baking-powder",
+        "qty": 4,
+        "unit": "g",
+        "name": "baking powder",
+        "optional": false
+      },
+      {
+        "id": "fine-salt",
+        "qty": 2,
+        "unit": "g",
+        "name": "fine salt",
+        "optional": false
+      },
+      {
+        "id": "butter",
+        "qty": 70,
+        "unit": "g",
+        "name": "soft unsalted butter",
+        "optional": false
+      },
+      {
+        "id": "tahini",
+        "qty": 90,
+        "unit": "g",
+        "name": "tahini",
+        "optional": false
+      },
+      {
+        "id": "light-brown-sugar",
+        "qty": 120,
+        "unit": "g",
+        "name": "light brown sugar",
+        "optional": false
+      },
+      {
+        "id": "eggs",
+        "qty": 1,
+        "unit": "",
+        "name": "large egg",
+        "optional": false
+      },
+      {
+        "id": "vanilla-extract",
+        "qty": 5,
+        "unit": "ml",
+        "name": "vanilla extract",
+        "optional": false
+      },
+      {
+        "id": "sesame-seeds",
+        "qty": 12,
+        "unit": "g",
+        "name": "sesame seeds",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Mix flour, cocoa powder, baking powder and salt. In a separate bowl beat softened butter, tahini and brown sugar until well combined.",
+      "Beat in the egg and vanilla. Fold in the dry mixture until it forms a dough; chill about 20 minutes if too soft to shape.",
+      "Heat oven to 175°C conventional / 155°C fan. Line a tray with parchment and divide dough into 12 evenly spaced mounds. Flatten lightly and add sesame seeds.",
+      "Bake about 10–12 minutes until edges are set but centres remain slightly soft. Cool on tray for 10 minutes before moving to a rack."
+    ],
+    "note": "Contains wheat, milk, egg and sesame. Do not eat raw flour or raw cookie dough.",
+    "equipment": "Baking tray, parchment, mixing bowls, whisk",
+    "hero": "/assets/images/18-chocolate-tahini-cookies.webp",
+    "process": "/assets/images/30-shape-chocolate-cookies.webp"
+  }
+]
