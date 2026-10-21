@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+# ┌──────────────────────────────────────────────┐
+# │                                              │
+# │  PFxamd                                      │
+# │  Ahmed                                       │
+# │                                              │
+# └──────────────────────────────────────────────┘
+# 
+# @project     MESA — The Everyday Table
+# @author      Ahmed
+# @brand       PFxamd
+# @website     https://www.pfxamd.com
+# @repository  https://github.com/pfxamd/MESA
+
 """MESA: dependency-free production build for a static culinary editorial site."""
 from __future__ import annotations
 import json, html, os, shutil, re
