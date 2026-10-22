@@ -1,0 +1,265 @@
+{
+  "sourceCommit": "270b09e06796716315cd247a67057d170e2a0a10",
+  "prefix": "pfxamd/concepts/mesa/",
+  "records": [
+    {
+      "source": "public/assets/images/01-opening-shared-table.webp",
+      "output": "assets/images/01-opening-shared-table.webp",
+      "key": "pfxamd/concepts/mesa/01-opening-shared-table.webp",
+      "bytes": 369936,
+      "sha256": "dfae7710c0008678b8d60c5ee2c30764c5d8f9fd5a62a81fbb498e52bd4cbcdf"
+    },
+    {
+      "source": "public/assets/images/02-tomato-material-study.webp",
+      "output": "assets/images/02-tomato-material-study.webp",
+      "key": "pfxamd/concepts/mesa/02-tomato-material-study.webp",
+      "bytes": 204694,
+      "sha256": "a51739fb1e29e9f93d38ddf5eb59995de88239970d5465e22ed48d12a07e0ba6"
+    },
+    {
+      "source": "public/assets/images/03-citrus-colour-study.webp",
+      "output": "assets/images/03-citrus-colour-study.webp",
+      "key": "pfxamd/concepts/mesa/03-citrus-colour-study.webp",
+      "bytes": 256454,
+      "sha256": "64fffa4060ab8a3187d8ce81b7d379b860cc88b8d89f1fd000f5c439f07d7be0"
+    },
+    {
+      "source": "public/assets/images/04-bread-and-crumb.webp",
+      "output": "assets/images/04-bread-and-crumb.webp",
+      "key": "pfxamd/concepts/mesa/04-bread-and-crumb.webp",
+      "bytes": 307470,
+      "sha256": "743ed54cc42aa4b4e357452fcbad3cb6100f135483fd9b0c88cb0aaaf5c0d46f"
+    },
+    {
+      "source": "public/assets/images/05-hands-and-herbs.webp",
+      "output": "assets/images/05-hands-and-herbs.webp",
+      "key": "pfxamd/concepts/mesa/05-hands-and-herbs.webp",
+      "bytes": 302768,
+      "sha256": "ddd523c108484635f85f94675183ce16833b5697f6246f49f6ad6d77773364dc"
+    },
+    {
+      "source": "public/assets/images/06-after-lunch-table.webp",
+      "output": "assets/images/06-after-lunch-table.webp",
+      "key": "pfxamd/concepts/mesa/06-after-lunch-table.webp",
+      "bytes": 150714,
+      "sha256": "707570eb6aefec17b9414626c49735f9e1290f0a8d8edc4ecea102edb0012e5a"
+    },
+    {
+      "source": "public/assets/images/07-charred-tomato-toast.webp",
+      "output": "assets/images/07-charred-tomato-toast.webp",
+      "key": "pfxamd/concepts/mesa/07-charred-tomato-toast.webp",
+      "bytes": 307640,
+      "sha256": "1c942458dee44c4ed40f175c7da98636cdc03d6b59a017dda4191ad05f26168f"
+    },
+    {
+      "source": "public/assets/images/08-lemon-herb-butter-beans.webp",
+      "output": "assets/images/08-lemon-herb-butter-beans.webp",
+      "key": "pfxamd/concepts/mesa/08-lemon-herb-butter-beans.webp",
+      "bytes": 202500,
+      "sha256": "c60e4e11810cbe9dcccd32980545474d8d5d01f7aa01db973b1fb230940cd981"
+    },
+    {
+      "source": "public/assets/images/09-crispy-potato-salad.webp",
+      "output": "assets/images/09-crispy-potato-salad.webp",
+      "key": "pfxamd/concepts/mesa/09-crispy-potato-salad.webp",
+      "bytes": 341436,
+      "sha256": "eca84e8eb64f449aad08194e5369763cd4a843ba8b826191026d334e74525a78"
+    },
+    {
+      "source": "public/assets/images/10-carrot-orange-fennel-salad.webp",
+      "output": "assets/images/10-carrot-orange-fennel-salad.webp",
+      "key": "pfxamd/concepts/mesa/10-carrot-orange-fennel-salad.webp",
+      "bytes": 218826,
+      "sha256": "53c0de0cb83eb8994b4047eb3d3e1a14166d425a474679697492bc98a26916f0"
+    },
+    {
+      "source": "public/assets/images/11-roasted-pepper-tomato-pasta.webp",
+      "output": "assets/images/11-roasted-pepper-tomato-pasta.webp",
+      "key": "pfxamd/concepts/mesa/11-roasted-pepper-tomato-pasta.webp",
+      "bytes": 253794,
+      "sha256": "71fca4bb2e232d2fdce5461f3052a04b6ba0c5281f757dbe9ab1752992131cb9"
+    },
+    {
+      "source": "public/assets/images/12-harissa-chickpea-skillet.webp",
+      "output": "assets/images/12-harissa-chickpea-skillet.webp",
+      "key": "pfxamd/concepts/mesa/12-harissa-chickpea-skillet.webp",
+      "bytes": 309110,
+      "sha256": "0db0e410160498358b0d4316b3d501f7af4d00403fce785636705f15971eed48"
+    },
+    {
+      "source": "public/assets/images/13-crispy-aubergine-yogurt.webp",
+      "output": "assets/images/13-crispy-aubergine-yogurt.webp",
+      "key": "pfxamd/concepts/mesa/13-crispy-aubergine-yogurt.webp",
+      "bytes": 345544,
+      "sha256": "fbcb63795418d72e355875bb55a32620176f7c3ce3eeff2a44f69bc6074b1d58"
+    },
+    {
+      "source": "public/assets/images/14-golden-roast-chicken.webp",
+      "output": "assets/images/14-golden-roast-chicken.webp",
+      "key": "pfxamd/concepts/mesa/14-golden-roast-chicken.webp",
+      "bytes": 314924,
+      "sha256": "7f4d343de5721a9860d02e15f67b4988d09470b07ff56ee35f8aaf4367fed12c"
+    },
+    {
+      "source": "public/assets/images/15-tomato-saffron-rice.webp",
+      "output": "assets/images/15-tomato-saffron-rice.webp",
+      "key": "pfxamd/concepts/mesa/15-tomato-saffron-rice.webp",
+      "bytes": 291498,
+      "sha256": "c83cf8f355b3fefecbd294e0bd34e0cca0198a0e7f8027758e87d5c5a213c457"
+    },
+    {
+      "source": "public/assets/images/16-orange-olive-oil-cake.webp",
+      "output": "assets/images/16-orange-olive-oil-cake.webp",
+      "key": "pfxamd/concepts/mesa/16-orange-olive-oil-cake.webp",
+      "bytes": 203958,
+      "sha256": "9e10cddf6da1471d8c62b16d4046c990f40b18a4521f143532d9bab9732191cd"
+    },
+    {
+      "source": "public/assets/images/17-honey-roasted-pears.webp",
+      "output": "assets/images/17-honey-roasted-pears.webp",
+      "key": "pfxamd/concepts/mesa/17-honey-roasted-pears.webp",
+      "bytes": 220394,
+      "sha256": "146d57c777220e06efd55ce7fcfe694c973680849c102dcdd53c5fbbf0fa69f1"
+    },
+    {
+      "source": "public/assets/images/18-chocolate-tahini-cookies.webp",
+      "output": "assets/images/18-chocolate-tahini-cookies.webp",
+      "key": "pfxamd/concepts/mesa/18-chocolate-tahini-cookies.webp",
+      "bytes": 351036,
+      "sha256": "0e9f2dcebbd372e0dc6d4687c5ec9dab76de6f10fb0997654ca930e00f8c67ad"
+    },
+    {
+      "source": "public/assets/images/19-char-tomatoes.webp",
+      "output": "assets/images/19-char-tomatoes.webp",
+      "key": "pfxamd/concepts/mesa/19-char-tomatoes.webp",
+      "bytes": 225374,
+      "sha256": "ab4bf7a6714baab5b447176b6b5161bfc9a2acf28878951aeb21cb157816b7b4"
+    },
+    {
+      "source": "public/assets/images/20-dress-butter-beans.webp",
+      "output": "assets/images/20-dress-butter-beans.webp",
+      "key": "pfxamd/concepts/mesa/20-dress-butter-beans.webp",
+      "bytes": 172138,
+      "sha256": "b03584594738ec506f137010869856b62fb565e6ed8a1fdfae85a07a533b96ca"
+    },
+    {
+      "source": "public/assets/images/21-crush-potatoes.webp",
+      "output": "assets/images/21-crush-potatoes.webp",
+      "key": "pfxamd/concepts/mesa/21-crush-potatoes.webp",
+      "bytes": 224246,
+      "sha256": "f0411cd8d1d4866ef5f83c729f17e15d86c35ec32d7df6ce804ade9f4079cf69"
+    },
+    {
+      "source": "public/assets/images/22-shave-vegetables.webp",
+      "output": "assets/images/22-shave-vegetables.webp",
+      "key": "pfxamd/concepts/mesa/22-shave-vegetables.webp",
+      "bytes": 295838,
+      "sha256": "12322f3e84e5207d8f47e07e302947c462a4990c2fc47d8a6a5f2b306414611f"
+    },
+    {
+      "source": "public/assets/images/23-make-roasted-sauce.webp",
+      "output": "assets/images/23-make-roasted-sauce.webp",
+      "key": "pfxamd/concepts/mesa/23-make-roasted-sauce.webp",
+      "bytes": 339078,
+      "sha256": "eb8a53b514b0e3b7a56558b3e63c21a5f4d34f80ae38f98beb881ba3e1cbf61d"
+    },
+    {
+      "source": "public/assets/images/24-build-chickpea-skillet.webp",
+      "output": "assets/images/24-build-chickpea-skillet.webp",
+      "key": "pfxamd/concepts/mesa/24-build-chickpea-skillet.webp",
+      "bytes": 244382,
+      "sha256": "56a283f2eeb4956084879cfd263d0cae1d597acd61b6639f74af5c7141fb41cf"
+    },
+    {
+      "source": "public/assets/images/25-sear-aubergine.webp",
+      "output": "assets/images/25-sear-aubergine.webp",
+      "key": "pfxamd/concepts/mesa/25-sear-aubergine.webp",
+      "bytes": 276752,
+      "sha256": "7db3063315e4d5b6c89e52886ec15813f1cadf25626d73f8035c63bf33b2eb7d"
+    },
+    {
+      "source": "public/assets/images/26-season-roast-chicken.webp",
+      "output": "assets/images/26-season-roast-chicken.webp",
+      "key": "pfxamd/concepts/mesa/26-season-roast-chicken.webp",
+      "bytes": 251622,
+      "sha256": "9633f683c2c7212c81ce7928bf508a3227a775c3d994466e291f1955150b4fb3"
+    },
+    {
+      "source": "public/assets/images/27-fold-saffron-rice.webp",
+      "output": "assets/images/27-fold-saffron-rice.webp",
+      "key": "pfxamd/concepts/mesa/27-fold-saffron-rice.webp",
+      "bytes": 192684,
+      "sha256": "1c5bfa897d59543b4ba7d9bdf87aa8679bf2234eb9da7d4e69fdab04598496ea"
+    },
+    {
+      "source": "public/assets/images/28-mix-orange-cake.webp",
+      "output": "assets/images/28-mix-orange-cake.webp",
+      "key": "pfxamd/concepts/mesa/28-mix-orange-cake.webp",
+      "bytes": 260672,
+      "sha256": "837764344ae8e53ad5bf463a899cd8787cd7baa3186a8a18bb7abae5e9995b85"
+    },
+    {
+      "source": "public/assets/images/29-glaze-roasted-pears.webp",
+      "output": "assets/images/29-glaze-roasted-pears.webp",
+      "key": "pfxamd/concepts/mesa/29-glaze-roasted-pears.webp",
+      "bytes": 248236,
+      "sha256": "b0a156ce323b4b1e3d824185e7a6a3cba73b23c1feed2f966992a82028764244"
+    },
+    {
+      "source": "public/assets/images/30-shape-chocolate-cookies.webp",
+      "output": "assets/images/30-shape-chocolate-cookies.webp",
+      "key": "pfxamd/concepts/mesa/30-shape-chocolate-cookies.webp",
+      "bytes": 257438,
+      "sha256": "1c9e467ee5b9b3b3598fe758bb00327906070a61a72a78cbca586fdc7f0f2008"
+    },
+    {
+      "source": "public/assets/images/31-market-produce-crates.webp",
+      "output": "assets/images/31-market-produce-crates.webp",
+      "key": "pfxamd/concepts/mesa/31-market-produce-crates.webp",
+      "bytes": 296020,
+      "sha256": "be710f3903e7ba48ad5f6f31c0addf1c5a9cf2cd998b400ec969d40aa24ae8b7"
+    },
+    {
+      "source": "public/assets/images/32-selecting-produce.webp",
+      "output": "assets/images/32-selecting-produce.webp",
+      "key": "pfxamd/concepts/mesa/32-selecting-produce.webp",
+      "bytes": 205706,
+      "sha256": "304ad20a7eb2c451f8e9cd167ec843e5a2be2485025c7719f5af197e479758d8"
+    },
+    {
+      "source": "public/assets/images/33-lemon-branch-still-life.webp",
+      "output": "assets/images/33-lemon-branch-still-life.webp",
+      "key": "pfxamd/concepts/mesa/33-lemon-branch-still-life.webp",
+      "bytes": 241006,
+      "sha256": "59c362436347aa1e8f206fdaac2ef97bfae7ffde331d84353283f24cbd49b1a3"
+    },
+    {
+      "source": "public/assets/images/34-zest-lemon.webp",
+      "output": "assets/images/34-zest-lemon.webp",
+      "key": "pfxamd/concepts/mesa/34-zest-lemon.webp",
+      "bytes": 224062,
+      "sha256": "cc27af8965b1dbd80b83b751a97915b5131180eb88eca1a029173398ce030c2e"
+    },
+    {
+      "source": "public/assets/images/35-everyday-pantry.webp",
+      "output": "assets/images/35-everyday-pantry.webp",
+      "key": "pfxamd/concepts/mesa/35-everyday-pantry.webp",
+      "bytes": 177762,
+      "sha256": "c9715ecfaa171197c486846b59662f6eefc267b136fd9010b593f45f309b766c"
+    },
+    {
+      "source": "public/assets/images/36-clearing-the-table.webp",
+      "output": "assets/images/36-clearing-the-table.webp",
+      "key": "pfxamd/concepts/mesa/36-clearing-the-table.webp",
+      "bytes": 151842,
+      "sha256": "593184f4fed5f348d5e8eaf37d90f4f79323d0604f5c034051afbd88687ce5b2"
+    },
+    {
+      "source": "assets/mesa-mark.svg",
+      "output": "assets/mesa-mark.svg",
+      "key": "pfxamd/concepts/mesa/mesa-mark.svg",
+      "bytes": 243,
+      "sha256": "302e726c2d93d622258f8e62c531554da9ac3967f2410bf447c7debd2a7c7b97"
+    }
+  ]
+}

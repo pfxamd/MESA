@@ -3,7 +3,7 @@ from http.server import ThreadingHTTPServer,SimpleHTTPRequestHandler
 from pathlib import Path
 from urllib.parse import urlsplit
 import os
-ROOT=Path(__file__).resolve().parent/'docs'
+ROOT=Path(__file__).resolve().parent/'dist'
 BASE=os.environ.get('MESA_BASE','/MESA').rstrip('/')
 class Handler(SimpleHTTPRequestHandler):
  def translate_path(self,path):

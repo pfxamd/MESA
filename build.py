@@ -18,12 +18,12 @@ import json, html, os, shutil, re
 from pathlib import Path
 from urllib.parse import quote
 ROOT=Path(__file__).resolve().parent
-DIST=ROOT/'docs'
+DIST=ROOT/'dist'
 BASE=os.environ.get('MESA_BASE','/MESA').rstrip('/')
 ORIGIN=os.environ.get('MESA_SITE','https://pfxamd.github.io').rstrip('/')
-RECIPES=json.loads((ROOT/'content/recipes.json').read_text())
-STORIES=json.loads((ROOT/'content/stories.json').read_text())
-IMAGES={v['id']:v for v in json.loads((ROOT/'data/images.json').read_text())['images']}
+RECIPES=json.loads((ROOT/'content/recipes.json').read_text(encoding='utf8'))
+STORIES=json.loads((ROOT/'content/stories.json').read_text(encoding='utf8'))
+IMAGES={v['id']:v for v in json.loads((ROOT/'data/images.json').read_text(encoding='utf8'))['images']}
 CATEGORIES=('Small Plates','The Main Table','Something Sweet')
 def e(s):return html.escape(str(s),quote=True)
 def path(url='/'):
@@ -132,6 +132,7 @@ def writepage(route,text):
  dest=DIST/route/'index.html' if route else DIST/'index.html'
  dest.parent.mkdir(exist_ok=True,parents=True);dest.write_text(text,encoding='utf-8')
 def build():
+ if DIST.is_symlink() or DIST.resolve()!=ROOT.resolve()/'dist':raise ValueError('Unexpected production output directory')
  if DIST.exists():shutil.rmtree(DIST)
  (DIST/'assets').mkdir(parents=True,exist_ok=True)
  shutil.copytree(ROOT/'public/assets/images',DIST/'assets/images')
@@ -143,5 +144,7 @@ def build():
  routes=['/','/recipes/','/kitchen/','/stories/','/about/']+['/recipes/'+r['slug']+'/' for r in RECIPES]+['/stories/'+st['slug']+'/' for st in STORIES]
  (DIST/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{e(ORIGIN+path(p))}</loc></url>' for p in routes)+'</urlset>',encoding='utf-8')
  (DIST/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+ORIGIN+path('/sitemap.xml')+'\n',encoding='utf-8')
+ from publish_media import publish_media
+ publish_media(ROOT)
  print(f'MESA: built {len(routes)} static pages (+ 404) and {len(IMAGES)} images in {DIST}')
 if __name__=='__main__':build()
